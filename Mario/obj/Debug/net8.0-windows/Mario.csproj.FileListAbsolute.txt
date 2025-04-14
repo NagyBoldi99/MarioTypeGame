@@ -1,0 +1,17 @@
+D:\github\Mario\Mario\bin\Debug\net8.0-windows\Mario.exe
+D:\github\Mario\Mario\bin\Debug\net8.0-windows\Mario.deps.json
+D:\github\Mario\Mario\bin\Debug\net8.0-windows\Mario.runtimeconfig.json
+D:\github\Mario\Mario\bin\Debug\net8.0-windows\Mario.dll
+D:\github\Mario\Mario\bin\Debug\net8.0-windows\Mario.pdb
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.Form1.resources
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.Properties.Resources.resources
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.csproj.GenerateResource.cache
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.AssemblyInfoInputs.cache
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.AssemblyInfo.cs
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.csproj.CoreCompileInputs.cache
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.dll
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\refint\Mario.dll
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.pdb
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.genruntimeconfig.cache
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\ref\Mario.dll
