@@ -15,3 +15,4 @@ D:\github\Mario\Mario\obj\Debug\net8.0-windows\refint\Mario.dll
 D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.pdb
 D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.genruntimeconfig.cache
 D:\github\Mario\Mario\obj\Debug\net8.0-windows\ref\Mario.dll
+D:\github\Mario\Mario\obj\Debug\net8.0-windows\Mario.sourcelink.json
