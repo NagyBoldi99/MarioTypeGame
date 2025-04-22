@@ -37,9 +37,9 @@ namespace Mario
             bool canMoveRight = true;
             isGrounded = false;
             player.Top += jumpSpeed;
-            
 
 
+            Rectangle playerHead = new Rectangle(player.Left + 5, player.Top, player.Width - 10, 2);
             Rectangle playerLeft = new Rectangle(player.Left - 1, player.Top + 5, 1, player.Height - 10);
             Rectangle playerRight = new Rectangle(player.Right, player.Top + 5, 1, player.Height - 10);
 
@@ -156,6 +156,15 @@ namespace Mario
                         {
                             canMoveLeft = false;
                         }
+                        Rectangle platformBottom = new Rectangle(x.Left, x.Bottom - 2, x.Width, 2);
+
+                        // Ha a játékos feje eléri alulról a platformot, ne engedjük felfelé mozdulni
+                        if (playerHead.IntersectsWith(platformBottom) && jumpSpeed < 0)
+                        {
+                            jumpSpeed = 0;
+                            force = 0;
+                        }
+
                     }
                 }
             }

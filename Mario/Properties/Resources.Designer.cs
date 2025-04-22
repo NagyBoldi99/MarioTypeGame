@@ -93,6 +93,36 @@ namespace Mario.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap lavagif {
+            get {
+                object obj = ResourceManager.GetObject("lavagif", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap original_732e104323124f0c69b1bfd6463c3b53 {
+            get {
+                object obj = ResourceManager.GetObject("original-732e104323124f0c69b1bfd6463c3b53", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pixel_art_red_door_game_asset_design_free_vector {
+            get {
+                object obj = ResourceManager.GetObject("pixel-art-red-door-game-asset-design-free-vector", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap platformImage {
             get {
                 object obj = ResourceManager.GetObject("platformImage", resourceCulture);
